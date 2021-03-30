@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vulksgren
-- Networking, Coding, and Vidya Gaymes
+- Sup nerd, name is Vulks.
+- Into Networking, low-level Coding, and Vidya Gaymes
 - Working on my +Linux, CCNA, and A+ certification. Will soon get back into Python.
 - Vulks@vivaldi.net
 
