@@ -1,6 +1,6 @@
 - Sup nerd, name is Vulks.
 - Into Networking, low-level Coding, and Vidya Gaymes
-- Working on my +Linux, CCNA, and A+ certification. Will soon get back into Python.
+- Working on my +Linux, CCNA, and Networking+. Will soon get back into Python.
 - Vulks@vivaldi.net
 
 <!---
