@@ -1,6 +1,4 @@
-- Sup nerd, name is Vulks.
-- Into networking, basic scripting, and vidya games.
-- Soon...
+- Networking guy who is passionate about open-sourced software. 
 
 <!---
 Vulksgren/Vulksgren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
